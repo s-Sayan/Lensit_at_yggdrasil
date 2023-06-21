@@ -1,0 +1,73 @@
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:321: RuntimeWarning: invalid value encountered in true_divide
+  dx_lm = 2 * rfft_kappa * 1.j * KX / (KX**2+KY**2)
+/home/users/s/sahasay2/git_repos/LensIt/lensit/clusterlens/profile.py:322: RuntimeWarning: invalid value encountered in true_divide
+  dy_lm = 2 * rfft_kappa * 1.j * KY / (KX**2+KY**2)
