@@ -445,6 +445,8 @@ def kappa_th_bessel(theta_amin, kappa_l, elmax):
     kappa_el1 = np.trapz(integrand, el_range)/ 2 / np.pi 
     return kappa_el1
 
+
+
 ell = np.arange(ellmax_sky+1)
 theta = np.linspace(0, 10, num=100)
 nmaps = 1000
@@ -476,6 +478,21 @@ kappa_prof_th_mean_1 = np.mean(kappa_prof_th_1, axis=0)*lbox_rad
 kappa_prof_th_error_1 = np.std(kappa_prof_th_1, axis=0)*lbox_rad/np.sqrt(1000)
 kappa_prof_th_mean_2 = np.mean(kappa_prof_th_2, axis=0)*lbox_rad
 kappa_prof_th_error_2 = np.std(kappa_prof_th_2, axis=0)*lbox_rad/np.sqrt(1000)
+
+kappa_thet_bessel = np.zeros((len(theta)))
+for th in tqdm(range(len(theta))):
+    kappa_thet_bessel[th] = kappa_th_bessel(theta[th], kappa_l, elmax=ellmaxsky)
+
+################ saving files #####################################
+kappa_th_map = np.array([theta, kappa_prof_th_mean, kappa_prof_th_error])
+kappa_th_qe_wc = np.array([theta, kappa_prof_th_mean_1, kappa_prof_th_error_1])
+kappa_th_qe_c = np.array([theta, kappa_prof_th_mean_2, kappa_prof_th_error_2])
+kappa_l_ = np.array([kappa_l_mean, kappa_l_mean_1, kappa_l_mean_2])
+np.savetxt("../files/kappa_th_MAP.dat", kappa_th_map)
+np.savetxt("../files/kappa_th_qe_wc.dat", kappa_th_qe_wc)
+np.savetxt("../files/kappa_th_qe_c.dat", kappa_th_qe_c)
+
+np.savetxt("../files/kappa_l_MAP_QEwc_QEc_lmaxsky5k.dat", kappa_l_)
 
 #################### Plotting ####################
 
