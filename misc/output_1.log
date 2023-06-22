@@ -1,11 +1,11 @@
-Starting at Wed Jun 21 10:21:40 CEST 2023
-Running on hosts: cpu025
+Starting at Wed Jun 21 22:53:18 CEST 2023
+Running on hosts: cpu101
 Running on 1 nodes.
 Running on 1 processors.
 Current working directory is /home/users/s/sahasay2/simulations/run11_/misc
 
 ***** LAUNCHING *****
-2023-06-21 10:21:40
+2023-06-21 22:53:19
 
 /home/users/s/sahasay2/.conda/envs/clusterlens/bin/python
 The size of the data patch is 307.2 X 307.2 arcmin central box
@@ -13,9 +13,9 @@ The size of the data patch is 307.2 X 307.2 arcmin central box
   lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:00])   inverse len Pmats  curvpOlm 
   lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:00])   Fxx , part 1  curvpOlm 
   lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:00])   Fyy , part 1  curvpOlm 
-  lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:00])   Fxy , part 1  curvpOlm 
-  lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:00])   Fxx , part 2  curvpOlm 
-  lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:00])   Fyy , part 2  curvpOlm 
+  lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:01])   Fxy , part 1  curvpOlm 
+  lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:01])   Fxx , part 2  curvpOlm 
+  lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:01])   Fyy , part 2  curvpOlm 
   lensit.ffs_covs.ffs_cov   [00:00:00]  (total [00:00:01])   Fxy , part 2  curvpOlm 
 0
  I will be using data from ell=140 to ell=5000 only
@@ -9394,9 +9394,9 @@ Building nufft fwd plan
      [00:00:00]  (total [00:00:00])   get_qlms::mult with len Pmat  
      [00:00:00]  (total [00:00:00])   get_qlms::cartesian gradients  
      [00:00:00]  (total [00:00:00])   get_qlms::rotation to phi Omega  
-     [00:00:01]  (total [00:00:01])   get_qlms::mult with len Pmat  
-     [00:00:00]  (total [00:00:01])   get_qlms::cartesian gradients  
-     [00:00:00]  (total [00:00:01])   get_qlms::rotation to phi Omega  
+     [00:00:00]  (total [00:00:00])   get_qlms::mult with len Pmat  
+     [00:00:00]  (total [00:00:00])   get_qlms::cartesian gradients  
+     [00:00:00]  (total [00:00:00])   get_qlms::rotation to phi Omega  
 938
  I will be using data from ell=140 to ell=5000 only
  The sky band-limit is ell=5000
@@ -44025,3 +44025,7 @@ Building nufft fwd plan
      [00:00:00]  (total [00:00:00])   get_qlms::mult with len Pmat  
      [00:00:00]  (total [00:00:00])   get_qlms::cartesian gradients  
      [00:00:00]  (total [00:00:00])   get_qlms::rotation to phi Omega  
+
+***** DONE *****
+2023-06-22 01:12:59
+

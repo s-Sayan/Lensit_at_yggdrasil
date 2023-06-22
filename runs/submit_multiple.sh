@@ -1,5 +1,5 @@
 #!/bin/bash
-conda activate clusterlens
+
 # Loop from 0 to 19 (inclusive)
 for number in {0..19}
 do
