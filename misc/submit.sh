@@ -1,4 +1,5 @@
 #!/bin/sh
+#SBATCH --job-name=test
 #SBATCH --partition=shared-cpu
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
